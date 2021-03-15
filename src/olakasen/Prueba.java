@@ -1,12 +1,10 @@
 package olakasen;
 
-public class kpasa {
+public class Prueba {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		
-		
 	}
 
 }
